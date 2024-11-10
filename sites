@@ -1,4 +1,5 @@
 0.0.0.0 cnn.com
+0.0.0.0 www.cnn.com
 0.0.0.0 news.google.com
 0.0.0.0 apnews.com
 0.0.0.0 www.apnews.com
@@ -6,3 +7,11 @@
 0.0.0.0 politico.com
 0.0.0.0 foxnews.com
 0.0.0.0 www.foxnews.com
+0.0.0.0 www.axios.com
+0.0.0.0 axios.com
+0.0.0.0 thehill.com
+0.0.0.0 www.thehill.com
+0.0.0.0 npr.com
+0.0.0.0 www.npr.com
+0.0.0.0 www.propublica.org
+0.0.0.0 propublica.org
